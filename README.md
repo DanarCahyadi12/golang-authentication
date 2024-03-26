@@ -58,8 +58,11 @@ All config is in `config.json` file.
 | `email`      | `string` | Required |
 | `password` | `string` | required |
 
+#### Get token when access token is expired
 
-    
+```http
+  Get /auth/token
+```
 
 ## Run application
 
