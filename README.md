@@ -61,7 +61,7 @@ All config is in `config.json` file.
 #### Get token when access token is expired
 
 ```http
-  Get /auth/token
+  GET /auth/token
 ```
 
 ## Run application
