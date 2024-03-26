@@ -1,10 +1,10 @@
 {
   "database" : {
     "port" : 3306,
-    "user" : "root",
-    "password": "danareksa12",
-    "host": "localhost",
-    "name": "go-restful-api",
+    "user" : "<YOUR_DATABASE_USER>",
+    "password": "<YOUR_DATABASE_PASSWORD>",
+    "host": "<YOUR_DATABASE_HOST>",
+    "name": "<YOUR_DATABASE_NAME>",
     "pooling": {
       "idle": 10,
       "max": 100,
